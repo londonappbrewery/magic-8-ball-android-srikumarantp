@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
                  ballDisplay.setImageResource(ballArray[number]);
 
-                 Log.d( "MgBall", "I generated a number" + number );
+                 Log.d( "MgBall", "Magic Ball gave you this" + number );
 
              }
          });
